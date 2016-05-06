@@ -1,0 +1,143 @@
+
+body {
+	background-color: #EDEDED;
+}
+
+nav {
+	display: inline-block;
+	width: 100%;
+	padding: 0;
+	height: 65px;
+	margin-bottom: 20px;
+}
+.name {
+	display: inline-block;
+	float: left;
+	height: 5px;
+	margin: 15px 10px;
+	width: 60px;	
+}
+.name img {
+	display: inline-block;
+	height: 40px;
+}
+.topNav {
+
+	margin: 10px 5px;
+	padding: 20px;
+}
+.topNav li {
+	display: inline-block;
+	float: right;
+}
+
+.topNav li a {
+	margin: 10px 15px;
+	text-decoration: none;
+	color: #2D2D2D;
+	font-family: sans-serif;
+}
+
+header {
+	text-align: center;
+}
+header h2 {
+	margin:25px 5px;
+	padding:0 10px;
+}
+header q {
+	color: #F28BBB;
+}
+
+.mainPic img {
+	height: 310px;
+	width: 100%;
+}
+
+.middle {
+	display: inline-block;
+	height: 220px;
+	text-align: center;
+	width: 100%;
+	margin: 15px;
+}
+
+.aboutMe {
+	width: 45%;
+	float: left;
+}
+.aboutMe h2 {
+	font-family: 'Dancing Script';
+	color: #F28BBB;
+}
+
+.aboutMe p { 
+	text-align: left;
+}
+
+.myWork {
+	width: 45%;
+	float: right;
+}
+
+.myWork h2 {
+	font-family: 'Dancing Script';
+	color: #F28BBB;
+}
+
+.myWork p {
+	text-align: left;
+}
+
+.box {
+	
+	display: inline-block;
+	margin-right: 5px;
+}
+.box a img {
+	height: 166px;
+	width: 163px;
+	margin: 0 auto;
+
+}
+
+.thankYou h2 {
+	text-align: center;
+	font-family: 'Dancing Script';
+	color: #F28BBB;
+}
+
+footer {
+	display: block;
+	background-color: #2D2D2D;
+	height: 300px;
+	width: 100%;
+}
+
+.contacts {
+	margin-left: 35px;
+	color: #F28BBB;
+	font-family: 'Dancing Script';
+}
+
+form {
+	height: 200px;
+	width: 50%;
+}
+
+form input {
+	margin: 1% auto;
+    display: block;
+    width: 80%;
+}
+
+form textarea {
+	margin: 1% auto;
+	display: block;
+	width: 80%;
+}
+
+.button {
+	display: block;
+	
+}
